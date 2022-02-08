@@ -1,6 +1,6 @@
-##About me 🎨
-🖋 I'm a Web Developer and Learner.
-🖋Currently studying Computer Science at East West University.
+##About me 🎨<br>
+🖋 I'm a Web Developer and Learner.<br>
+🖋Currently studying Computer Science at East West University.<br>
 <hr/>
 Skills:  REACT / JS / HTML / CSS / Java
 <hr/>
