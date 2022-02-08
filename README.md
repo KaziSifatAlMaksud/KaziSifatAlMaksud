@@ -4,8 +4,6 @@
 <br>
 🖋 I'm a Web Developer and Learner.<br>
 🖋Currently studying Computer Science at East West University.<br>
-
-
 <hr/>
 
 - 🔭 I’m currently working on react application. <br>
@@ -37,8 +35,7 @@
 
 
 <br>
-<hr/>
- ### Connect with Me: 
+ ### Connect with Me: <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaziSifatAlMaksud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazi-sifat-al-maksud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100008690524341)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@maksud_sifat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kazisifat.blogspot.com/)  
 <hr/>
 
