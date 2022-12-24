@@ -55,7 +55,6 @@
  <br>
  <img  align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
   <br>
-  <br>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KaziSifatAlMaksud&label=Profile%20views&color=0e75b6&style=flat" alt="KaziSifatAlMaksud" /> </p>
 
