@@ -48,20 +48,15 @@
 <br>
 <br>
 <br>
-<h2 align="center">🗠 My Profile Stats</h2>
-
-            <img align="center"
-                width="10000"
-                src="https://github-readme-stats.vercel.app/api?username=FourLineCode&count_private=true&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark">
+<h2 align="center">Profile Stats</h2>
+  <img width="7000" align="center" src="https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark">
         
-    
-            <img width="10000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
-        
+ <br>
+ <br>
+ <img  align="center" width="7000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
+  <br>
+  <br>
 <hr>
-
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KaziSifatAlMaksud&label=Profile%20views&color=0e75b6&style=flat" alt="KaziSifatAlMaksud" /> </p>
 
 
