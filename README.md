@@ -49,25 +49,14 @@
 <br>
 <br>
 <h2 align="center">🗠 My Profile Stats</h2>
-<table>
-    <tr>
-        <td>
-            <img
+
+            <img align="center"
                 width="10000"
-                src="https://github-readme-stats.vercel.app/api?username=FourLineCode&count_private=true&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark"
-            />
-        </td>
-        <td>
-            
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img width="10000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
-        </td>
+                src="https://github-readme-stats.vercel.app/api?username=FourLineCode&count_private=true&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark">
         
-    </tr>
-</table>
+    
+            <img width="10000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
+        
 <hr>
 
 
