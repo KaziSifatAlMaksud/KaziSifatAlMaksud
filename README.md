@@ -49,11 +49,11 @@
 <br>
 <br>
 <h2 align="center">Profile Stats</h2>
-  <img width="5000" align="center" src="https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark">
+  <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark">
         
  <br>
  <br>
- <img  align="center" width="5000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
+ <img  align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
   <br>
   <br>
 <hr>
