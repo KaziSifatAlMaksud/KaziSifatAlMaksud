@@ -1,7 +1,6 @@
 ### Hey there 🤚
 ### About me
 
-<br>
 🖋 I'm a Web Developer and Learner.<br>
 🖋Currently studying Computer Science at East West University.<br>
 <hr/>
