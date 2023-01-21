@@ -39,6 +39,20 @@
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886593-8988ca48-fdcd-4db9-9532-7dc5be7caada.png" alt="mongodb" cheeseheight="40" width="100"  /></a>
 <a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886644-b081b92a-8df4-4e79-b214-b8b0b3641a86.png" alt="firebase" cheeseheight="40" width="40"  /></a>
 </p>
+
+<p align="center"> Tools </p>
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887363-8a912c74-d654-4658-bc3d-c91eb9902a17.png" alt="autocad" cheeseheight="60" width="60"  /></a>
+<a href="#"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887110-08dc5285-59c9-406d-96de-d2bd9e89f3c8.png" alt="vs code" cheeseheight="40" width="40"  /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887141-a1349ffc-11b1-49f1-b418-69f435c0bdad.png" alt="figma" cheeseheight="25" width="25"  /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887173-dcdb79a0-c1f8-450e-810c-c2c59d9d3843.png" alt="xampp" cheeseheight="40" width="40"/></a>
+  <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887086-62d51cef-2337-4fc9-b33e-d12c96a12311.png" alt="colaboration" cheeseheight="65" width="65"/></a>
+ <a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887085-4831bcf7-fda6-40c9-a1ad-54cf06d79418.png" alt="diagramg.net" cheeseheight="40" width="40"/></a>
+ <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887192-5f8a571b-5d31-4480-bd70-ea595fe93bed.png" alt="PyCharm" cheeseheight="40" width="40"/></a>
+  <a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213887157-1303aa4a-a2e4-4dc6-b832-9dafbef4ea43.png" alt="intellij" cheeseheight="40" width="40"/></a>
+</p>
+
+
 <hr/>
 
  ### Connect with Me: <br>
