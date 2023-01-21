@@ -1,5 +1,6 @@
 <h2 align="center">👩🏻‍💻 Hi, I’m Sifat </h2>
-### About me
+
+## About me
 
 🖋 I'm a Web Developer and Learner.<br>
 🖋Currently studying Computer Science at East West University.<br>
