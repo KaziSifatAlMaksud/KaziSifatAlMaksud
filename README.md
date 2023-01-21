@@ -32,7 +32,13 @@
  <a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886332-04af1d15-7f8d-4d2b-b52a-fb61eb841b1b.png" alt="php" cheeseheight="50" width="50"/></a>
   <a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886251-f86ad882-7e0a-4d5e-abc9-f6f99d9e7d41.png" alt="sass" cheeseheight="40" width="40"/></a>
 </p>
-
+<p align="center">Database</p>
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886577-de9b1089-f982-470d-abd2-07b2c4566e4a.png" alt="Oracle" cheeseheight="40" width="100"  /></a>
+<a href="#"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886603-7646ec43-7c95-405d-9412-b4ff3191dc6b.png" alt="mysql" cheeseheight="40" width="70"  /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886593-8988ca48-fdcd-4db9-9532-7dc5be7caada.png" alt="mongodb" cheeseheight="40" width="100"  /></a>
+<a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213886644-b081b92a-8df4-4e79-b214-b8b0b3641a86.png" alt="firebase" cheeseheight="40" width="40"  /></a>
+</p>
 <hr/>
 
  ### Connect with Me: <br>
