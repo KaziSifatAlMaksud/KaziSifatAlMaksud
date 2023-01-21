@@ -39,16 +39,11 @@
  <p align="left">
 
 <a href="https://www.linkedin.com/in/kazisifatalmaksud/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142026-ff3c5284-a8a9-4ac7-ad7b-850066420752.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
-<a href="https://fb.com/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142048-14070f91-58be-4db0-a6a8-394f35406e6d.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
-<a href="https://instagram.com/runtim3terror" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142068-632cb9a3-e50a-4e33-9a23-a6c1e71821dc.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
-<a href="https://www.behance.net/sabbirafridi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142096-a1e7a388-e62f-4fcc-9629-26c0d3ea7822.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
-<a href="https://twitter.com/sabbirmafridi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142200-1e7dc7b6-0f96-46f2-8414-c9ffefceef55.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
+<a href="https://www.facebook.com/profile.php?id=100008690524341" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142048-14070f91-58be-4db0-a6a8-394f35406e6d.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
+<a href="https://twitter.com/maksud_sifat" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142200-1e7dc7b6-0f96-46f2-8414-c9ffefceef55.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
+<a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213881780-b240d541-4d95-4ebf-9e0b-aff5b849bcce.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
 <a href="https://www.hackerrank.com/2019_3_60_050" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142113-a8e9459d-482c-4f90-9f05-c630165e90b0.png" alt="hakerrank kazisfiatalmaksud" cheeseheight="40" width="40"  /></a>
-<a href="https://codeforces.com/profile/smahmuddz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142131-d39c68c0-0efb-46b6-a77e-fa967416d2fc.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
 </p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaziSifatAlMaksud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazi-sifat-al-maksud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100008690524341)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@maksud_sifat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kazisifat.blogspot.com/)  
-<br>
 <hr/>
   <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark">
  <img  align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziSifatAlMaksud&theme=dark&langs_count=6&layout=compact&hide=css">
