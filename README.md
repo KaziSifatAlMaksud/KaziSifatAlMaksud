@@ -5,13 +5,8 @@
 🖋 I'm a Web Developer and Learner.<br>
 🖋Currently studying Computer Science at East West University.<br>
 <hr/>
-
-- 🔭 I’m currently working on react application. <br>
-- 🌱 I’m currently learning JavaScript, Database, Computer Networking. <br>
-- 👯 I’m looking to collaborate on open source projects. <br>
 - 💬 Ask me about anything. Always happy to help! ✋ <br>
 - 📫 How to reach me: kazi.sifat2013@gmail.com <br>
-- 😄 Pronouns: He/Him 🙍🏻‍♂️ <br>
 - ⚡ Fun fact: I am probably binge watching a famous sitcom right now, again! <br>
 
 ## Technology:
