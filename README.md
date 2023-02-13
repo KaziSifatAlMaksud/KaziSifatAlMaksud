@@ -58,6 +58,8 @@
 <a href="https://twitter.com/maksud_sifat" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142200-1e7dc7b6-0f96-46f2-8414-c9ffefceef55.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
 <a href="https://kazisifat.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/213881780-b240d541-4d95-4ebf-9e0b-aff5b849bcce.png" alt="kazisifatalmaksud" cheeseheight="40" width="40"  /></a>
 <a href="https://www.hackerrank.com/2019_3_60_050" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85384973/166142113-a8e9459d-482c-4f90-9f05-c630165e90b0.png" alt="hakerrank kazisfiatalmaksud" cheeseheight="40" width="40"  /></a>
+ <a href="https://www.datacamp.com/profile/KaziSifatAlMaksud" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65750595/218527165-6e191333-6a3e-456e-918e-d7f36c4f7f2b.png" alt="hakerrank kazisfiatalmaksud" cheeseheight="50" width="50"  /></a>
+ 
 </p>
 <hr/>
   <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=KaziSifatAlMaksud&count_private=true&show_icons=true&theme=dark">
